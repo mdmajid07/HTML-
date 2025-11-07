@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Formatting Elements</title>
+</head>
+<body>
+
+  <!-- Heading for the page -->
+  <h2>HTML Formatting Elements Example</h2>
+
+  <!-- <b> tag: makes text bold, only for visual effect (no importance meaning) -->
+  <p>This is <b>bold text</b> using the &lt;b&gt; tag.</p>
+
+  <!-- <strong> tag: also bold but adds importance (search engines treat it as important text) -->
+  <p>This is <strong>important text</strong> using the &lt;strong&gt; tag.</p>
+
+  <!-- <i> tag: makes text italic (for style or design) -->
+  <p>This is <i>italic text</i> using the &lt;i&gt; tag.</p>
+
+  <!-- <em> tag: italic text but gives emphasis/meaning to the text -->
+  <p>This is <em>emphasized text</em> using the &lt;em&gt; tag.</p>
+
+  <!-- <mark> tag: highlights or marks text with yellow background by default -->
+  <p>This is <mark>highlighted text</mark> using the &lt;mark&gt; tag.</p>
+
+  <!-- <small> tag: makes text smaller in size -->
+  <p>This is <small>smaller text</small> using the &lt;small&gt; tag.</p>
+
+  <!-- <del> tag: shows deleted text with a line through it -->
+  <p>This is <del>deleted text</del> using the &lt;del&gt; tag.</p>
+
+  <!-- <ins> tag: shows inserted (newly added) text with underline -->
+  <p>This is <ins>inserted text</ins> using the &lt;ins&gt; tag.</p>
+
+  <!-- <sub> tag: subscript text (goes slightly below the line, used in chemical formulas) -->
+  <p>Water formula is H<sub>2</sub>O using the &lt;sub&gt; tag.</p>
+
+  <!-- <sup> tag: superscript text (goes slightly above the line, used in math or power values) -->
+  <p>Square of 2 is 2<sup>2</sup> using the &lt;sup&gt; tag.</p>
+
+</body>
+</html>
