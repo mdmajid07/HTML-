@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- Paragraph explaining what address tag is -->
+<p>The HTML address element defines contact information of a document or article.</p>
+
+<!-- address tag starts -->
+<address>
+<!-- Author’s name -->
+Written by md majid alam <br>
+<!-- Website address -->
+Visit us at:<br>
+Example.com<br>
+<!-- Postal address -->
+Box 564, Disneyland<br>
+<!-- Country name -->
+USA
+</address>
+<!-- address tag ends -->
+
+</body>
+</html>
