@@ -1,0 +1,13 @@
+<html>
+<head>
+  <title>Text Formatting Example</title>
+</head>
+<body>
+<a href="https://www.instagram.com/__mdmajid0001/"
+   target="_blank"
+   title="Follow me on Instagram"
+   rel="noopener">
+   Follow me on Instagram 📷
+</a>
+</body>
+</html>
