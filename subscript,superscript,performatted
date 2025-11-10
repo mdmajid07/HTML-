@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Subscript, Superscript & Preformatted Text Example</title>
+</head>
+<body>
+  <h1>HTML Subscript, Superscript & Preformatted Text</h1>
+  <p>
+    Water formula is: H<sub>2</sub>O  
+  </p>
+    Square of a number: x<sup>2</sup>  
+  </p>
+  <p>
+    Chemical formula of Sulphuric acid: H<sub>2</sub>SO<sub>4</sub><br>
+    10<sup>3</sup> = 1000
+  </p>
+  <hr>
+  <h2>Example of &lt;pre&gt; Tag</h2>
+  <pre>
+This is preformatted text.
+    It keeps spaces,
+line breaks,
+      and indentation as it is.
+  </pre>
+</body>
+</html>
