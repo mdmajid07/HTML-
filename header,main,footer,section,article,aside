@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Semantic Elements Example</title>
+</head>
+<body>
+  <header>
+    <h1>My Web Page</h1>
+    <p>Welcome to my simple website</p>
+  </header>
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>I am a web developer learning HTML, CSS, and JavaScript.</p>
+    </section>
+    <article>
+      <h2>Latest Article</h2>
+      <p>HTML5 introduced many new semantic tags that make pages easier to read and structure.</p>
+    </article>
+    <aside>
+      <h3>Quick Tip</h3>
+      <p>Use semantic tags to make your website SEO-friendly.</p>
+    </aside>
+  </main>
+  <footer>
+    <p>Created by Majid Papa © 2025</p>
+  </footer>
+
+</body>
+</html>
