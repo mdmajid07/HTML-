@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Anchor and Image Tag Example</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>Click the image below to visit Google:</p>
+  <a href="https://www.google.com" target="_blank">
+    <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+         alt="Google Logo"
+         width="200"
+         height="80">
+  </a>
+  <p>Above image is clickable. It will take you to Google website.</p>
+  <p>Visit my <a href="https://www.youtube.com" target="_blank">YouTube Channel</a></p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+       alt="JavaScript Logo"
+       width="150"
+       height="150">
+  <footer>
+    <p>Created by Majid Papa © 2025</p>
+  </footer>
+
+</body>
+</html>
