@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Big, Small and Horizontal Rule Example</title>
+</head>
+<body>
+  <h1>Text Size and Line Example</h1>
+  <hr>
+    This is a <big>Bigger text</big>. 
+    This is a <small>Smaller text</small>. 
+  </p>
+  <hr>
+  <p>
+    HTML helps to change text <big>size</big> easily.<br>
+    You can use <small>small text</small> for footnotes or details.
+  </p>
+
+  <hr>
+  <p>
+    <small>Created by Majid Papa © 2025</small>
+  </p>
+
+</body>
+</html>
