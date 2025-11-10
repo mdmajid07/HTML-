@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Text Formatting Example</title>
+</head>
+<body>
+  <h1>HTML Text Formatting Tags</h1>
+  <p>
+    Hello! My name is <b>Md majid alam </b>. 
+    <br>
+    I am learning <i>HTML language</i>. 
+    <br>
+    I love to <u>design websites</u>. 
+  </p>
+  <p>
+    This is <b><i>bold and italic</i></b> text.<br>
+    This is <b><u>bold and underlined</u></b> text.<br>
+    This is <i><u>italic and underlined</u></i> text.<br>
+    And this is <b><i><u>bold, italic and underlined</u></i></b> text.
+  </p>
+</body>
+</html>
