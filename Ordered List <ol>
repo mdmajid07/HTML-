@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ordered List </title>
+</head>
+<body>
+  <h1>My Daily Routine</h1>
+  <ol>
+    <li>Wake up early</li>
+    <li>Do exercise</li>
+    <li>Take a shower</li>
+    <li>Have breakfast</li>
+    <li>Go to college</li>
+  </ol>
+</body>
+</html>
