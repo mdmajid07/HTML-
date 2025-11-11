@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Big, Small and Horizontal Rule Example</title>
+</head>
+<body>
+ <div id="header">Header Area</div>
+<div id="content">Main Content</div>
+<div id="footer">Footer Area</div>
+</body>
+</html>
