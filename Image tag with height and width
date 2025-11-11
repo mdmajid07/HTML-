@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Image Tag </title>
+</head>
+<body>
+  <h1>Example of Image Tag with Height & Width</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo.png"
+       alt="Wikipedia Logo"
+       width="200"
+       height="200">
+  <p>This image is 200px wide and 200px high.</p>
+</body>
+</html>
